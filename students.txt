@@ -1,0 +1,9 @@
+# Student Management System Data File
+# Format: TYPE|ID|Name|Age|Email|Phone|Address|RollNo|Course|Semester|Marks|Subjects
+# Total Students: 5
+========================================
+STUDENT|S001|Rahul Sharma|20|rahul@email.com|9876543210|Delhi|R1001|B.Tech CSE|3|78.0,82.0,75.0,88.0,80.0|Mathematics,Physics,Chemistry,Programming,English
+STUDENT|S002|Priya Patel|19|priya@email.com|9876543211|Mumbai|R1002|B.Tech ECE|2|85.0,90.0,88.0,92.0,87.0|Mathematics,Physics,Chemistry,Programming,English
+STUDENT|S003|Amit Kumar|21|amit@email.com|9876543212|Bangalore|R1003|B.Tech CSE|4|65.0,70.0,68.0,72.0,66.0|Mathematics,Physics,Chemistry,Programming,English
+STUDENT|S004|Sneha Gupta|20|sneha@email.com|9876543213|Chennai|R1004|B.Tech ME|3|92.0,95.0,88.0,90.0,93.0|Mathematics,Physics,Chemistry,Programming,English
+STUDENT|S005|Vikram Singh|22|vikram@email.com|9876543214|Hyderabad|R1005|B.Tech CSE|6|55.0,60.0,58.0,62.0,56.0|Mathematics,Physics,Chemistry,Programming,English
